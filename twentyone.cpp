@@ -20,6 +20,8 @@ using namespace std;
 
 
 //同时改vct0ry
+//同时改 papicheng
+
 /* Prototypes */
 void shuffle(int cards[]);
 void printCard(int id);
