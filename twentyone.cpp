@@ -16,6 +16,10 @@ using namespace std;
 
 //test git
 
+
+
+
+//同时改vct0ry
 /* Prototypes */
 void shuffle(int cards[]);
 void printCard(int id);
